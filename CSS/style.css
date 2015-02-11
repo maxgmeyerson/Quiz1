@@ -1,0 +1,122 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+body {
+	line-height: 1;
+	background-color: darkred;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px 20px 15px 20px;
+}
+
+h2 {
+	font-size: x-large;
+	font-weight: bold;
+	color: white;
+}
+
+h3 {
+	padding: 2px 20px 10px 20px;
+}
+
+h4 {
+	padding: 2px 20px 2px 20px;
+
+}
+
+h6 {
+	padding: 15px 20px 15px 20px;
+}
+
+p {
+	line-height: 130%;
+	padding: 0 20px 15px 20px;
+}
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+#topLinks {
+	background-color: black;
+	height: 40px;
+	border: 3px solid black;
+	border-bottom-color: grey;
+}
+
+#contact {
+	padding-left: 30px;
+}
+
+
+#paragraphs {
+	border: 1px solid black;
+	border-top-color: lightgrey;
+}
+
+#mainBody {
+	margin: 0 350px 0 350px;
+	background-color: white;
+	border: 3px solid black;
+	text-align: left;
+	text-justify: auto;
+}
+
+#promotional {
+	margin-left: 20px;
+}
+
+#greyText {
+	color: grey;
+}
+
+.italics {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#footnote {
+	font-style: italic;
+}
